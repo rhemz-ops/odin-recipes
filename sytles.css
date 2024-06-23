@@ -33,7 +33,7 @@ h1 {
 }
 
 .main {
-    width: 70%;
+    width: 750px;
     margin: 0 auto;
 }
 
@@ -58,6 +58,6 @@ img {
     display: block;
     border: 7px solid #000;
     height: auto;
-    width: 520px;
+    width: 620px;
     margin: 16px auto;
 }
