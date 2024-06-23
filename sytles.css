@@ -5,8 +5,17 @@ body {
 }
 
 h1 {
-    color: rgb(36, 36, 36);
+    color: rgb(153, 12, 12);
     font-size: 64px;
+}
+
+/* STYLES FOR INDEX(MAIN) PAGE */
+
+.nav_link {
+    background-color: rgb(153, 12, 12);
+    color: rgb(214, 232, 255);
+    font-size: 18px;
+    padding: 8px 24px;
 }
 
 h3 {
